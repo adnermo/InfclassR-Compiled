@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###### *Note that this is a 0.6 teeworlds mod (DDNet-compatible), if you are looking for 0.7 version, check [InfCroya](https://github.com/yavl/teeworlds-infcroya)*
 
 # Teeworlds InfClassR
@@ -39,3 +40,7 @@ bam server_debug
 
 ## Server commands
 Read the [wiki](https://github.com/yavl/teeworlds-infclassR/wiki)
+=======
+# InfclassR-Compiled
+InfclassR China Community edition has been compiled
+>>>>>>> 214d40c6d7de1332c41255981991c3f7a248c6e3

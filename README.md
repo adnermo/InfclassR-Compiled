@@ -14,8 +14,8 @@ cd
 cd teeworlds-infclassR-master/bin
 nano autoexec.cfg
 
-## Server commands
 Read the [wiki](https://github.com/yavl/teeworlds-infclassR/wiki)
-=======
+
+
 # InfclassR-Compiled
 InfclassR China Community edition has been compiled

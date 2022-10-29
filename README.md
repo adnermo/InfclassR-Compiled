@@ -4,7 +4,10 @@
 Slightly modified version of original [InfClass by necropotame](https://github.com/necropotame/teeworlds-infclass).
 The 火锅Dio extra adds specially provided map
 
-### on Ubuntu / Mint / Debian
+### on Ubuntu / Mint / Debian  
+
+#Running the server  
+  
 cd  
 cd teeworlds-infclassR-master/bin  
 ./server  

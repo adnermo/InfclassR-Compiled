@@ -5,14 +5,14 @@ Slightly modified version of original [InfClass by necropotame](https://github.c
 The 火锅Dio extra adds specially provided map
 
 ### on Ubuntu / Mint / Debian
-cd
-\n cd teeworlds-infclassR-master/bin
-\n ./server
+cd  
+cd teeworlds-infclassR-master/bin  
+./server  
 
 # if you want change some server config
-cd
-cd teeworlds-infclassR-master/bin
-nano autoexec.cfg
+cd  
+cd teeworlds-infclassR-master/bin  
+nano autoexec.cfg  
 
 Read the [wiki](https://github.com/yavl/teeworlds-infclassR/wiki)
 

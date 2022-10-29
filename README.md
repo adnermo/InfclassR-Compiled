@@ -12,7 +12,7 @@ cd
 cd teeworlds-infclassR-master/bin  
 ./server  
 
-# if you want change some server config
+# Change server config
 cd  
 cd teeworlds-infclassR-master/bin  
 nano autoexec.cfg  

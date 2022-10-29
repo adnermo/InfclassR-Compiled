@@ -6,7 +6,7 @@ The 火锅Dio extra adds specially provided map
 
 ### on Ubuntu / Mint / Debian  
 
-#Running the server  
+# Running the server  
   
 cd  
 cd teeworlds-infclassR-master/bin  
